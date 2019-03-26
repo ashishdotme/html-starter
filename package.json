@@ -1,0 +1,11 @@
+{
+  "name": "html-starter",
+  "version": "1.0.0",
+  "description": "starter project with webpack",
+  "main": "index.js",
+  "author": "Ashish Patel <ashishsushilpatel@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.29.6"
+  }
+}
